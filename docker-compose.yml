@@ -1,0 +1,10 @@
+services:
+ squid:
+  image: ubuntu/squid:latest
+  container_name: squid-proxy
+  ports:
+   - '127.0.0.1:3128:3128'
+  volumes:
+   - ./config/config.conf:/etc/squid/squid.conf
+   - ./logs:/var/log/squid
+  restart: unless-stopped
