@@ -1,3 +1,8 @@
 1752583055.635   4625 172.19.0.1 TCP_TUNNEL/200 8136 CONNECT login.microsoftonline.com:443 HIER_DIRECT/login.microsoftonline.com -
 1752583071.628   6414 172.19.0.1 TCP_TUNNEL/200 13019 CONNECT login.microsoftonline.com:443 HIER_DIRECT/login.microsoftonline.com -
 1752583072.220   4593 172.19.0.1 TCP_TUNNEL/200 7511 CONNECT login.microsoftonline.com:443 HIER_DIRECT/login.microsoftonline.com -
+1752583806.943   4820 172.19.0.1 TCP_TUNNEL/200 8137 CONNECT login.microsoftonline.com:443 HIER_DIRECT/login.microsoftonline.com -
+1752583816.597   5118 172.19.0.1 TCP_TUNNEL/200 13637 CONNECT login.microsoftonline.com:443 HIER_DIRECT/login.microsoftonline.com -
+1752583817.338   4750 172.19.0.1 TCP_TUNNEL/200 8134 CONNECT login.microsoftonline.com:443 HIER_DIRECT/login.microsoftonline.com -
+1752583818.120   4780 172.19.0.1 TCP_TUNNEL/200 4636 CONNECT graph.microsoft.com:443 HIER_DIRECT/graph.microsoft.com -
+1752583839.728   9307 172.19.0.1 TCP_TUNNEL/200 16375 CONNECT www.linkedin.com:443 HIER_DIRECT/www.linkedin.com -
